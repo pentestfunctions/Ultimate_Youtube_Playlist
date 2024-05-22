@@ -1,0 +1,324 @@
+The ultimate hacker playlist from beginning:
+
+What does what in your computer? Computer parts Explained
+https://youtu.be/ExxFxD4OSZ0
+
+How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown]
+https://youtu.be/d86ws7mQYIg
+
+LGA vs PGA
+https://www.youtube.com/watch?v=vzKcrwlmREE
+
+Mistakes while building a PC
+https://www.youtube.com/watch?v=-8LMML_EiMg
+
+PCPartPicker Correctly
+https://www.youtube.com/watch?v=pbd5NWrdvB4
+
+Ultimate PC build guide
+https://www.youtube.com/watch?v=s1fxZ-VWs2U
+
+Understanding airflow
+https://www.youtube.com/watch?v=4xkzBBuMOt0
+
+Learning the Anatomy of a Laptop
+https://www.youtube.com/watch?v=zKakYbp0HsI
+
+Using old broken laptops
+https://www.youtube.com/watch?v=WLP_L7Mgz6M
+
+Benchmarking your system
+https://www.youtube.com/watch?v=-bab7HjoZqk
+
+
+Additional hardware changes
+> Disk drive to storage
+https://www.youtube.com/watch?v=s7Dm6QEeuRU
+> Upgrade wireless card internally (find one that works for wifi hacking)
+https://www.youtube.com/watch?v=DW0zke5gVUE
+
+Understanding windows folder structure
+https://youtu.be/JlwobCSFRBU
+
+Windows Control Panel
+https://www.youtube.com/watch?v=zLqF5zR2tQ4
+
+Windows Shortcuts
+https://youtu.be/Wi921a6NASE
+
+Command prompt vs Powershell
+https://www.youtube.com/watch?v=H0gwnFV_SFs
+
+Windows Task Manager
+https://www.youtube.com/watch?v=vJ_vH3p91os
+
+If you don't like windows 11 layout:
+https://www.youtube.com/watch?v=uNmCgi6lsQU
+
+Keyboard symbols (Useful)
+
+Recommended Tools & Features:
+Treesize
+https://www.youtube.com/watch?v=eF2Vp4hj73Y
+
+Flow Launcher
+https://www.youtube.com/watch?v=fBwbovCrvMQ
+
+Everything
+https://www.youtube.com/watch?v=Iie7bzCu2p0
+
+God Mode
+https://www.youtube.com/watch?v=2fUza5Ey1-Y
+
+Increasing your typing speed
+https://monkeytype.com/
+
+Note keeping:
+How to use markdown aka Obsidian and Joplin + Github
+https://www.youtube.com/watch?v=_PPWWRV6gbA
+
+Differences between internet browsers
+https://www.youtube.com/watch?v=Z29uz49zwG8
+
+Website/Internet stuff
+https://www.youtube.com/watch?v=cD4hxKkqR4E
+
+What is a website? (DNS and how it works)
+https://www.youtube.com/watch?v=e9X4HiUsliE
+
+How the ISS gets internet
+https://www.youtube.com/watch?v=uavYRgc-9kA
+
+Defanging a URL when sharing
+
+Internet Fundamentals
+
+Routers and Ports
+
+TCP vs UDP
+
+VPNs, ISP
+
+Network types to remember
+
+Subnetting explained
+
+CIDR
+
+MAC Addresses/mac vendor lookup
+
+Handshakes, WiFi and how it works
+
+Setting up Visual Studio Code
+https://www.youtube.com/watch?v=B-s71n0dHUk
+
+Customizing Visual Studio Code
+https://www.youtube.com/watch?v=fJEbVCrEMSE
+
+Introduction to the windows terminal
+https://www.youtube.com/watch?v=JvHHgnOqW4w
+
+What is batch scripting?
+
+Creating your first batch file
+https://www.youtube.com/watch?v=sODXtX7jdcI
+
+Adding your batch file to environment variables
+
+Introduction to powershell
+https://www.youtube.com/watch?v=TUNNmVeyjW0
+
+What is powershell scripting?
+Creating your first PS1 file
+
+Introduction to python
+Installing Python
+What is Python Scripting
+Creating your first py file
+Understanding PYPI repositories
+
+Introduction to web development
+Creating your first HTML file
+CSS/JS implementations
+
+Hacking terminology explained
+Frequently asked questions about hacking
+
+What is a virtual machine
+Enabling Virtualization in your BIOS
+Setting up a virtual machine, Hyper-V, VMware, Virtualbox, Proxmox
+
+Using Linux for the first time
+Linux commands
+Customize/Rice your Kali Linux
+
+Shells, Bash vs ZSH
+https://www.youtube.com/watch?v=dRdGq8khTJc
+
+Windows Subsystem for Linux
+https://www.youtube.com/watch?v=av0UQy6g2FA
+
+Pentesting Methodology
+
+Passive Website OSINT
+
+Interactive Website OSINT
+
+Web App Pentesting
+
+Routing through TOR, Proxies, VPNS
+
+Google Dorking
+https://www.youtube.com/watch?v=lESeJ3EViCo
+
+Open Redirect Vulnerabilities
+https://www.youtube.com/watch?v=4Jk_I-cw4WE
+
+XSS
+https://www.youtube.com/watch?v=EoaDgUgS6QA
+
+CSTI
+https://www.youtube.com/watch?v=thUHg-2ci4E
+
+CRLF
+https://www.youtube.com/watch?v=lAShUU-hwFI
+
+Subdomain Takeovers
+https://www.youtube.com/watch?v=IrzZtsG0q0M
+
+Dangling Markup
+https://www.youtube.com/watch?v=XKGjuDlx_1A
+
+Prototype Pollution
+https://www.youtube.com/watch?v=FLpnEfrP-yE
+
+SSRF
+https://www.youtube.com/watch?v=Zyt7lUO3mY8
+
+SSTI
+https://www.youtube.com/watch?v=Ffeco5KB73I
+
+XSLT Server Side Injection
+https://www.youtube.com/watch?v=5MG5MA58Bdk
+
+XSSI
+https://www.youtube.com/watch?v=oUuZyOOASTw
+
+XS-Search
+https://www.youtube.com/watch?v=HcrQy0C-hEA
+
+NoSQL Injection
+https://www.youtube.com/watch?v=zHxgZJCy9fA
+
+LDAP Injection
+https://www.youtube.com/watch?v=S2mQBXcW3P0
+
+ReDoS
+https://www.youtube.com/watch?v=US9ktNSX3p4
+
+XPath
+https://www.youtube.com/watch?v=rFXDr5KVdAc
+
+CSWSH
+https://www.youtube.com/watch?v=5lT-CCBo-Ls
+
+Expired link reference takeover
+https://www.youtube.com/watch?v=xYywathFn0Y
+
+Clickjacking
+https://www.youtube.com/watch?v=_tz0O5-cndE
+
+Content security policy bypass
+https://www.youtube.com/watch?v=ERksJHl0DC0
+
+CORS
+https://www.youtube.com/watch?v=4KHiSt0oLJ0
+
+2FA bypass
+https://www.youtube.com/watch?v=e8KZTCM2B8Q
+
+Payment bypass
+https://www.youtube.com/watch?v=W_QNT-WaFFA
+
+Captcha Bypass
+https://www.youtube.com/watch?v=AGKbBf0MYiA
+
+Login Bypass
+https://www.youtube.com/watch?v=1LB7M3ll5qo
+
+Race Conditions
+https://www.youtube.com/watch?v=zg_kTCOcinQ
+
+Rate limit bypass
+https://www.youtube.com/watch?v=DrvtasrrAm8
+
+Password Reset bypass
+https://www.youtube.com/watch?v=EI52YTRfGRU
+
+Registration takeover
+https://www.youtube.com/watch?v=YlvDunLNFnI
+
+Deserialization
+https://www.youtube.com/watch?v=jwzeJU_62IQ
+
+Email Header Injection
+https://www.youtube.com/watch?v=MElMJgznXGY
+
+JWT vulns
+https://www.youtube.com/watch?v=I7gQTBYmEEg
+
+XML XEE
+https://www.youtube.com/watch?v=BZOg_NgvP18
+
+Formula Injection
+https://www.youtube.com/watch?v=C1o5uVOaufU
+
+PDF Injection
+https://www.youtube.com/watch?v=IJn6_PmXm7E
+
+OAuth ATO
+https://www.youtube.com/watch?v=cq1GGUHnTy8
+
+SAML
+https://www.youtube.com/watch?v=uD87fLN1zPU
+
+Unicode Normalization Vulns
+https://www.youtube.com/watch?v=c5y0t_lgb30
+
+Banner Grabbing
+https://www.youtube.com/watch?v=chVPS_sRjoI
+
+Hashes
+https://www.youtube.com/watch?v=cczlpiiu42M
+
+Hash crakcing
+https://www.youtube.com/watch?v=W6SIU-ggTDI
+
+API Fuzzing
+https://www.youtube.com/watch?v=M_guA0wjrLg
+
+SIEM tools
+https://www.youtube.com/watch?v=9RfsRn7m7OE
+
+SNORT (IDS)
+https://www.youtube.com/watch?v=RzF5-fVz7Oc
+
+Geospy
+https://www.youtube.com/watch?v=Or7ZulCcw7U
+
+Shodan
+https://www.youtube.com/watch?v=NPJUqRTf_Z4
+
+Censys
+https://www.youtube.com/watch?v=MaNrH4s4s9A
+
+Facecheck.ID
+https://www.youtube.com/watch?v=8Z6ygg2MA8M
+
+Pimeyes
+https://www.youtube.com/watch?v=PKVtv_LVNhA
+
+Securitytrails
+https://www.youtube.com/watch?v=VGEVWHbOXbA
+
+
