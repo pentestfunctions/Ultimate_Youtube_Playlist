@@ -36,7 +36,7 @@ The videos are categorized into several sections to help you navigate through th
 
 ## 🌟 Contributing
 
-This is a community project, and we welcome contributions! If you have a video that you think should be added to the playlist, please create a pull request with the video link and a brief description.
+This is a community project, and we welcome contributions! If you have a video that you think should be added to the playlist, please create a pull request with the video link and a brief description, or reach out to me on Discord @ HackNexus
 
 ## 📬 Contact
 
